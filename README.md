@@ -44,6 +44,9 @@ The dashboard provides insights into:
 <img width="1470" height="956" alt="Screenshot 2026-06-07 at 11 43 09 AM" src="https://github.com/user-attachments/assets/8599bc89-40bd-47a9-82a0-c43de04c8d0f" />
 
 ---
+## 🌐 Tableau Public Dashboard
+[View Interactive Dashboard](https://bit.ly/4dUl8Ef)
 
+---
 ## 👨‍💻 Author
 Bhanu Nayak
